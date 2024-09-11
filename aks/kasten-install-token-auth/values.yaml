@@ -1,6 +1,4 @@
 k10:
-#  externalGateway:
-#    create: false
   auth:
     tokenAuth:
       enabled: false
