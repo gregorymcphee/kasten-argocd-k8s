@@ -10,7 +10,7 @@ k10:
       size: 10Gi
   ingress:
     create: true
-    class: nginx
+    class: traefik
     # host: centos7-eastcoast.hhf.com
     urlPath: "/k10"
      
