@@ -11,6 +11,5 @@ k10:
   ingress:
     create: true
     class: traefik
-    # host: centos7-eastcoast.hhf.com
     urlPath: "/k10"
-     
+    
