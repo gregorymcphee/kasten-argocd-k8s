@@ -1,9 +1,9 @@
 k10:
   auth:
     tokenAuth:
-      enabled: false
-    basicAuth:
       enabled: true
+    basicAuth:
+      enabled: false
       htpasswd: k10admin:$2y$05$2ao4JP8w7far.N5CBApovuBSKnkG0Z6AYdCBnCJZC6VaTqY8SWBYS
   global:
     persistence:
