@@ -11,6 +11,6 @@ k10:
   ingress:
     create: true
     class: nginx
-    host: centos7-eastcoast.hhf.com
+    # host: centos7-eastcoast.hhf.com
     urlPath: "/k10"
      
