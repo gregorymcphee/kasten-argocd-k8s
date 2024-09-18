@@ -12,4 +12,6 @@ k10:
     create: true
     class: traefik
     urlPath: "/k10"
+  excludedApps:
+    argocd
     
