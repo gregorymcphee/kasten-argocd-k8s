@@ -12,5 +12,5 @@ k10:
     create: true
     class: traefik
     urlPath: "/k10"
-  excludedApps: ["argocd"]
+  excludedApps: ["kube-system", "kube-ingress", "kube-node-lease", "kube-public", "kube-rook-ceph", "argocd"]
   
